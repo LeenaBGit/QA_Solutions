@@ -1,13 +1,13 @@
-# ✅ QA Case Study: Bank – Corporate Loan Platform
+#  QA Case Study: Bank – Corporate Loan Platform
 
-## 🏢 Client Overview
+##  Client Overview
 **Client:** Bank (Enterprise Banking Division)  
 **Domain:** Corporate Lending / Financial Services  
 **Platform:** Internal loan origination and management system for high-value commercial clients.
 
 ---
 
-## ❌ The Problem
+##  The Problem
 
 Bank’s corporate loan platform was facing:
 
@@ -18,11 +18,11 @@ Bank’s corporate loan platform was facing:
 
 ---
 
-## 🔧 The QA Solution (My Role)
+##  The QA Solution (My Role)
 
 As a **Senior QA Analyst**, I played a key role in designing and executing a comprehensive QA solution.
 
-### ✔️ Key Contributions:
+###  Key Contributions:
 - Analyzed complex loan workflows and coordinated with BAs and developers to identify test scenarios
 - Designed 200+ functional and regression test cases across Origination, Approval, Disbursement, and Payment modules
 - Performed backend data validation using **SQL** for financial transactions and loan schedules
@@ -33,7 +33,7 @@ As a **Senior QA Analyst**, I played a key role in designing and executing a com
 
 ---
 
-## 🧰 Tools & Tech Used
+##  Tools & Tech Used
 
 - **Test Management:** TestRail, JIRA  
 - **API Testing:** Postman  
@@ -43,7 +43,7 @@ As a **Senior QA Analyst**, I played a key role in designing and executing a com
 
 ---
 
-## 📈 Results & Impact
+##  Results & Impact
 
 | Metric | Before QA Implementation | After QA Implementation |
 |--------|--------------------------|--------------------------|
