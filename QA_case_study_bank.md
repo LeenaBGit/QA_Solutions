@@ -58,6 +58,6 @@ As a **Senior QA Analyst**, I played a key role in designing and executing a com
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project helped strengthen bank's corporate lending platform quality by implementing structured QA processes, comprehensive functional and API testing, and data-driven validations. The engagement demonstrated the value of well-planned manual QA in a high-risk financial domain.
