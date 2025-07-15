@@ -1,10 +1,10 @@
-# ✅ QA Discovery Call Checklist
+#  QA Discovery Call Checklist
 
 A practical checklist for QA Solution Architects and Pre-Sales QA professionals to use during discovery meetings with clients.
 
 ---
 
-## 📅 Before the Call
+##  Before the Call
 
 - [ ] Review the client’s website and product
 - [ ] Check the client’s domain/industry (e.g., fintech, e-commerce)
@@ -14,7 +14,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 🏢 1. Company & Product Overview
+##  1. Company & Product Overview
 
 - [ ] What does your company do?
 - [ ] What product/platform are we focusing on?
@@ -23,7 +23,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 🧪 2. Current QA Process
+##  2. Current QA Process
 
 - [ ] Do you currently have a QA team?
 - [ ] Is testing in-house or outsourced?
@@ -34,7 +34,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## ⚠️ 3. Pain Points & Challenges
+##  3. Pain Points & Challenges
 
 - [ ] What QA challenges are you currently facing?
 - [ ] Are you facing release delays?
@@ -44,7 +44,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 💻 4. Tech Stack & Tools
+##  4. Tech Stack & Tools
 
 - [ ] Frontend/backend technologies used?
 - [ ] Are there APIs needing QA?
@@ -55,7 +55,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 🎯 5. QA Needs & Expectations
+##  5. QA Needs & Expectations
 
 - [ ] Type of testing needed (Functional, Regression, API, UI, etc.)
 - [ ] Do they need test case design or only execution?
@@ -65,7 +65,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 👥 6. Team & Collaboration
+##  6. Team & Collaboration
 
 - [ ] Stakeholders we’ll work with (PMs, Dev leads, etc.)
 - [ ] Point of contact for QA coordination?
@@ -74,7 +74,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 📆 7. Timeline & Budget
+##  7. Timeline & Budget
 
 - [ ] QA engagement start date?
 - [ ] Duration of the engagement (short/long term)?
@@ -83,7 +83,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## 📌 8. Next Steps
+##  8. Next Steps
 
 - [ ] Do they expect a formal QA solution proposal?
 - [ ] Is a PoC or test strategy needed first?
@@ -92,7 +92,7 @@ A practical checklist for QA Solution Architects and Pre-Sales QA professionals 
 
 ---
 
-## ✍️ Notes
+##  Notes
 
 Use this section for custom notes and observations during the call.
 
