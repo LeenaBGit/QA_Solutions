@@ -1,4 +1,4 @@
-# 📄 Statement of Work (SOW)
+#  Statement of Work (SOW)
 
 ## Project Title: [Insert Project Name – e.g., QA for Invoice-to-Cash Platform]  
 **Client:** [Client Name]  
