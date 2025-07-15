@@ -1,4 +1,4 @@
-# 📄 QA Solution Proposal – Corcentric Invoice-to-Cash
+#  QA Solution Proposal – Corcentric Invoice-to-Cash
 
 **Client:** Corcentric  
 **Project:** Invoice to Cash QA Solution  
